@@ -1,0 +1,958 @@
+[
+  {
+    "name": "Aloevera",
+    "scientific_name": "Aloe barbadensis miller",
+    "uses": [
+      "skin healing",
+      "digestive aid",
+      "immune support"
+    ],
+    "parts_used": [
+      "gel from leaves"
+    ],
+    "preparation": [
+      "fresh gel",
+      "juice",
+      "extract"
+    ],
+    "benefits": [
+      "anti-inflammatory",
+      "wound healing",
+      "mild laxative"
+    ],
+    "photo_url": "plants/aloevera.jpg"
+  },
+  {
+    "name": "Amla",
+    "scientific_name": "Phyllanthus emblica",
+    "uses": [
+      "immune booster",
+      "hair care",
+      "digestive health"
+    ],
+    "parts_used": [
+      "fruit"
+    ],
+    "preparation": [
+      "juice",
+      "powder",
+      "dried fruit"
+    ],
+    "benefits": [
+      "rich in vitamin C",
+      "antioxidant",
+      "liver tonic"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Amruta Balli",
+    "scientific_name": "Tinospora cordifolia",
+    "uses": [
+      "immune support",
+      "anti-inflammatory",
+      "fever"
+    ],
+    "parts_used": [
+      "stem"
+    ],
+    "preparation": [
+      "decoction",
+      "powder"
+    ],
+    "benefits": [
+      "anti-pyretic",
+      "detoxifier",
+      "anti-diabetic"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Arai",
+    "scientific_name": "Polyscias scutellaria",
+    "uses": [
+      "cough relief",
+      "digestive aid"
+    ],
+    "parts_used": [
+      "leaves"
+    ],
+    "preparation": [
+      "paste",
+      "juice",
+      "decoction"
+    ],
+    "benefits": [
+      "anti-inflammatory",
+      "bronchodilator",
+      "antibacterial"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Ashoka",
+    "scientific_name": "Saraca asoca",
+    "uses": [
+      "menstrual disorders",
+      "uterine health"
+    ],
+    "parts_used": [
+      "bark",
+      "flowers"
+    ],
+    "preparation": [
+      "decoction",
+      "powder"
+    ],
+    "benefits": [
+      "astringent",
+      "uterine tonic",
+      "anti-inflammatory"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Ashwagandha",
+    "scientific_name": "Withania somnifera",
+    "uses": [
+      "stress relief",
+      "energy booster",
+      "immune support"
+    ],
+    "parts_used": [
+      "roots",
+      "leaves"
+    ],
+    "preparation": [
+      "powder",
+      "decoction",
+      "capsules"
+    ],
+    "benefits": [
+      "adaptogen",
+      "anti-anxiety",
+      "neuroprotective"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Avacado",
+    "scientific_name": "Persea americana",
+    "uses": [
+      "skin health",
+      "heart health",
+      "digestive aid"
+    ],
+    "parts_used": [
+      "fruit",
+      "leaves",
+      "seed"
+    ],
+    "preparation": [
+      "oil",
+      "paste",
+      "juice"
+    ],
+    "benefits": [
+      "rich in healthy fats",
+      "anti-inflammatory",
+      "cholesterol regulation"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Bamboo",
+    "scientific_name": "Bambusoideae",
+    "uses": [
+      "wound healing",
+      "respiratory health",
+      "fever reduction"
+    ],
+    "parts_used": [
+      "leaves",
+      "shoots"
+    ],
+    "preparation": [
+      "decoction",
+      "powder",
+      "juice"
+    ],
+    "benefits": [
+      "anti-inflammatory",
+      "antioxidant",
+      "expectorant"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Basale",
+    "scientific_name": "Basella alba",
+    "uses": [
+      "skin conditions",
+      "constipation relief",
+      "anemia treatment"
+    ],
+    "parts_used": [
+      "leaves",
+      "stems"
+    ],
+    "preparation": [
+      "paste",
+      "juice",
+      "cooked vegetable"
+    ],
+    "benefits": [
+      "laxative",
+      "iron-rich",
+      "cooling properties"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Betel",
+    "scientific_name": "Piper betle",
+    "uses": [
+      "oral health",
+      "digestive aid",
+      "wound healing"
+    ],
+    "parts_used": [
+      "leaves"
+    ],
+    "preparation": [
+      "fresh leaves",
+      "paste",
+      "oil"
+    ],
+    "benefits": [
+      "antiseptic",
+      "stimulant",
+      "anti-inflammatory"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Betel Nut",
+    "scientific_name": "Areca catechu",
+    "uses": [
+      "digestive stimulant",
+      "astringent",
+      "vermifuge"
+    ],
+    "parts_used": [
+      "nut",
+      "leaves"
+    ],
+    "preparation": [
+      "powder",
+      "decoction"
+    ],
+    "benefits": [
+      "stimulant",
+      "anthelmintic",
+      "oral hygiene"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Brahmi",
+    "scientific_name": "Bacopa monnieri",
+    "uses": [
+      "brain health",
+      "memory enhancement",
+      "anxiety relief"
+    ],
+    "parts_used": [
+      "leaves",
+      "stems"
+    ],
+    "preparation": [
+      "powder",
+      "juice",
+      "capsules"
+    ],
+    "benefits": [
+      "neuroprotective",
+      "adaptogen",
+      "cognitive enhancer"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Castor",
+    "scientific_name": "Ricinus communis",
+    "uses": [
+      "laxative",
+      "skin conditions",
+      "hair growth"
+    ],
+    "parts_used": [
+      "seeds",
+      "leaves",
+      "oil"
+    ],
+    "preparation": [
+      "oil",
+      "poultice",
+      "decoction"
+    ],
+    "benefits": [
+      "anti-inflammatory",
+      "laxative",
+      "wound healing"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Curry Leaf",
+    "scientific_name": "Murraya koenigii",
+    "uses": [
+      "digestive aid",
+      "diabetes management",
+      "hair health"
+    ],
+    "parts_used": [
+      "leaves"
+    ],
+    "preparation": [
+      "fresh leaves",
+      "powder",
+      "oil"
+    ],
+    "benefits": [
+      "antioxidant",
+      "anti-diabetic",
+      "carminative"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Doddapatre",
+    "scientific_name": "Coleus amboinicus",
+    "uses": [
+      "respiratory conditions",
+      "digestive issues",
+      "skin problems"
+    ],
+    "parts_used": [
+      "leaves"
+    ],
+    "preparation": [
+      "juice",
+      "paste",
+      "decoction"
+    ],
+    "benefits": [
+      "expectorant",
+      "carminative",
+      "anti-inflammatory"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Ekka",
+    "scientific_name": "Calotropis gigantea",
+    "uses": [
+      "skin diseases",
+      "asthma",
+      "digestive disorders"
+    ],
+    "parts_used": [
+      "leaves",
+      "flowers",
+      "latex"
+    ],
+    "preparation": [
+      "paste",
+      "powder",
+      "decoction"
+    ],
+    "benefits": [
+      "anti-inflammatory",
+      "expectorant",
+      "vermifuge"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Ganike",
+    "scientific_name": "Solanum nigrum",
+    "uses": [
+      "liver disorders",
+      "skin diseases",
+      "fever"
+    ],
+    "parts_used": [
+      "leaves",
+      "berries"
+    ],
+    "preparation": [
+      "juice",
+      "paste",
+      "decoction"
+    ],
+    "benefits": [
+      "hepatoprotective",
+      "anti-inflammatory",
+      "febrifuge"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Guava",
+    "scientific_name": "Psidium guajava",
+    "uses": [
+      "diarrhea treatment",
+      "oral health",
+      "diabetes management"
+    ],
+    "parts_used": [
+      "leaves",
+      "fruit",
+      "bark"
+    ],
+    "preparation": [
+      "decoction",
+      "paste",
+      "juice"
+    ],
+    "benefits": [
+      "antimicrobial",
+      "anti-diarrheal",
+      "hypoglycemic"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Geranium",
+    "scientific_name": "Pelargonium graveolens",
+    "uses": [
+      "skin care",
+      "stress relief",
+      "wound healing"
+    ],
+    "parts_used": [
+      "leaves",
+      "flowers"
+    ],
+    "preparation": [
+      "essential oil",
+      "tea",
+      "paste"
+    ],
+    "benefits": [
+      "antibacterial",
+      "anti-anxiety",
+      "astringent"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Henna",
+    "scientific_name": "Lawsonia inermis",
+    "uses": [
+      "hair conditioning",
+      "skin cooling",
+      "wound healing"
+    ],
+    "parts_used": [
+      "leaves",
+      "flowers"
+    ],
+    "preparation": [
+      "paste",
+      "powder",
+      "oil"
+    ],
+    "benefits": [
+      "cooling",
+      "antifungal",
+      "anti-inflammatory"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Hibiscus",
+    "scientific_name": "Hibiscus rosa-sinensis",
+    "uses": [
+      "hair care",
+      "blood pressure regulation",
+      "liver health"
+    ],
+    "parts_used": [
+      "flowers",
+      "leaves"
+    ],
+    "preparation": [
+      "tea",
+      "paste",
+      "oil"
+    ],
+    "benefits": [
+      "hypotensive",
+      "hepatoprotective",
+      "hair growth promoter"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Honge",
+    "scientific_name": "Pongamia pinnata",
+    "uses": [
+      "skin diseases",
+      "rheumatism",
+      "wound healing"
+    ],
+    "parts_used": [
+      "leaves",
+      "seeds",
+      "oil"
+    ],
+    "preparation": [
+      "oil",
+      "paste",
+      "decoction"
+    ],
+    "benefits": [
+      "anti-inflammatory",
+      "antimicrobial",
+      "analgesic"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Insulin",
+    "scientific_name": "Costus igneus",
+    "uses": [
+      "diabetes management",
+      "antioxidant support",
+      "digestive health"
+    ],
+    "parts_used": [
+      "leaves"
+    ],
+    "preparation": [
+      "chewed raw",
+      "juice",
+      "powder"
+    ],
+    "benefits": [
+      "hypoglycemic",
+      "anti-diabetic",
+      "hepatoprotective"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Jasmine",
+    "scientific_name": "Jasminum officinale",
+    "uses": [
+      "stress relief",
+      "skin care",
+      "antidepressant"
+    ],
+    "parts_used": [
+      "flowers",
+      "leaves"
+    ],
+    "preparation": [
+      "essential oil",
+      "tea",
+      "paste"
+    ],
+    "benefits": [
+      "calming",
+      "antiseptic",
+      "mood enhancer"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Lemon",
+    "scientific_name": "Citrus limon",
+    "uses": [
+      "digestive aid",
+      "immune booster",
+      "skin care"
+    ],
+    "parts_used": [
+      "fruit",
+      "leaves",
+      "peel"
+    ],
+    "preparation": [
+      "juice",
+      "tea",
+      "essential oil"
+    ],
+    "benefits": [
+      "rich in vitamin C",
+      "alkalizing",
+      "antimicrobial"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Lemon grass",
+    "scientific_name": "Cymbopogon citratus",
+    "uses": [
+      "digestive aid",
+      "fever reducer",
+      "aromatherapy"
+    ],
+    "parts_used": [
+      "leaves",
+      "stems"
+    ],
+    "preparation": [
+      "tea",
+      "essential oil",
+      "paste"
+    ],
+    "benefits": [
+      "antimicrobial",
+      "febrifuge",
+      "calming"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Mango",
+    "scientific_name": "Mangifera indica",
+    "uses": [
+      "digestive health",
+      "anemia treatment",
+      "skin care"
+    ],
+    "parts_used": [
+      "leaves",
+      "fruit",
+      "bark"
+    ],
+    "preparation": [
+      "decoction",
+      "juice",
+      "paste"
+    ],
+    "benefits": [
+      "rich in iron",
+      "antioxidant",
+      "blood purifier"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Mint",
+    "scientific_name": "Mentha spicata",
+    "uses": [
+      "digestive aid",
+      "respiratory relief",
+      "headache treatment"
+    ],
+    "parts_used": [
+      "leaves"
+    ],
+    "preparation": [
+      "tea",
+      "essential oil",
+      "paste"
+    ],
+    "benefits": [
+      "carminative",
+      "analgesic",
+      "decongestant"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Nagadali",
+    "scientific_name": "Vitex negundo",
+    "uses": [
+      "joint pain relief",
+      "respiratory conditions",
+      "skin diseases"
+    ],
+    "parts_used": [
+      "leaves",
+      "seeds"
+    ],
+    "preparation": [
+      "paste",
+      "oil",
+      "decoction"
+    ],
+    "benefits": [
+      "anti-inflammatory",
+      "analgesic",
+      "expectorant"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Neem",
+    "scientific_name": "Azadirachta indica",
+    "uses": [
+      "skin diseases",
+      "dental care",
+      "blood purification"
+    ],
+    "parts_used": [
+      "leaves",
+      "bark",
+      "oil"
+    ],
+    "preparation": [
+      "paste",
+      "decoction",
+      "oil"
+    ],
+    "benefits": [
+      "antibacterial",
+      "antifungal",
+      "blood purifier"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Nithyapushpa",
+    "scientific_name": "Catharanthus roseus",
+    "uses": [
+      "diabetes management",
+      "blood pressure regulation",
+      "cancer research"
+    ],
+    "parts_used": [
+      "leaves",
+      "flowers"
+    ],
+    "preparation": [
+      "decoction",
+      "juice",
+      "powder"
+    ],
+    "benefits": [
+      "hypoglycemic",
+      "hypotensive",
+      "anticancer properties"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Nooni",
+    "scientific_name": "Morinda citrifolia",
+    "uses": [
+      "pain relief",
+      "immune support",
+      "skin health"
+    ],
+    "parts_used": [
+      "fruit",
+      "leaves"
+    ],
+    "preparation": [
+      "juice",
+      "paste",
+      "oil"
+    ],
+    "benefits": [
+      "analgesic",
+      "immunomodulator",
+      "antioxidant"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Papaya",
+    "scientific_name": "Carica papaya",
+    "uses": [
+      "digestive aid",
+      "skin care",
+      "dengue fever"
+    ],
+    "parts_used": [
+      "leaves",
+      "fruit",
+      "seeds"
+    ],
+    "preparation": [
+      "juice",
+      "paste",
+      "raw"
+    ],
+    "benefits": [
+      "digestive enzyme",
+      "anti-inflammatory",
+      "platelet booster"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Pepper",
+    "scientific_name": "Piper nigrum",
+    "uses": [
+      "digestive aid",
+      "respiratory health",
+      "pain relief"
+    ],
+    "parts_used": [
+      "fruit",
+      "leaves"
+    ],
+    "preparation": [
+      "powder",
+      "decoction",
+      "oil"
+    ],
+    "benefits": [
+      "carminative",
+      "analgesic",
+      "expectorant"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Pomegranate",
+    "scientific_name": "Punica granatum",
+    "uses": [
+      "heart health",
+      "digestive aid",
+      "skin care"
+    ],
+    "parts_used": [
+      "fruit",
+      "peel",
+      "leaves"
+    ],
+    "preparation": [
+      "juice",
+      "decoction",
+      "paste"
+    ],
+    "benefits": [
+      "antioxidant",
+      "anti-inflammatory",
+      "blood purifier"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Raktachandini",
+    "scientific_name": "Pterocarpus santalinus",
+    "uses": [
+      "skin diseases",
+      "fever reduction",
+      "blood purification"
+    ],
+    "parts_used": [
+      "heartwood",
+      "leaves"
+    ],
+    "preparation": [
+      "powder",
+      "decoction",
+      "paste"
+    ],
+    "benefits": [
+      "cooling",
+      "anti-inflammatory",
+      "blood purifier"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Rose",
+    "scientific_name": "Rosa spp.",
+    "uses": [
+      "skin care",
+      "stress relief",
+      "digestive aid"
+    ],
+    "parts_used": [
+      "petals",
+      "hips",
+      "leaves"
+    ],
+    "preparation": [
+      "tea",
+      "essential oil",
+      "paste"
+    ],
+    "benefits": [
+      "astringent",
+      "anti-inflammatory",
+      "mood enhancer"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Sapota",
+    "scientific_name": "Manilkara zapota",
+    "uses": [
+      "digestive health",
+      "energy booster",
+      "cough relief"
+    ],
+    "parts_used": [
+      "fruit",
+      "leaves"
+    ],
+    "preparation": [
+      "raw fruit",
+      "decoction",
+      "juice"
+    ],
+    "benefits": [
+      "rich in fiber",
+      "energy booster",
+      "expectorant"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Tulasi",
+    "scientific_name": "Ocimum tenuiflorum",
+    "uses": [
+      "respiratory health",
+      "stress relief",
+      "immune booster"
+    ],
+    "parts_used": [
+      "leaves"
+    ],
+    "preparation": [
+      "tea",
+      "juice",
+      "paste"
+    ],
+    "benefits": [
+      "adaptogen",
+      "immunomodulator",
+      "antiviral"
+    ],
+    "photo_url": ""
+  },
+  {
+    "name": "Wood sorel",
+    "scientific_name": "Oxalis acetosella",
+    "uses": [
+      "digestive aid",
+      "fever reduction",
+      "skin conditions"
+    ],
+    "parts_used": [
+      "leaves",
+      "flowers"
+    ],
+    "preparation": [
+      "juice",
+      "paste",
+      "tea"
+    ],
+    "benefits": [
+      "cooling",
+      "diuretic",
+      "anti-inflammatory"
+    ],
+    "photo_url": ""
+  }
+]
