@@ -1,59 +1,55 @@
-# Medicinal Plant Classifier
+# Plant-Recognizer
 
-Acest proiect are ca scop identificarea plantelor medicinale folosind modele de învățare automată și o aplicație Android care utilizează TensorFlow Lite.
+This project aims to identify medicinal plants using machine learning models and an Android application that utilizes TensorFlow Lite.
 
-## Structura și datele
+## Structure and Data
 
 ### Dataset
-- Baza de date folosită: [Indian Medicinal Leaves Dataset (Kaggle)](https://www.kaggle.com/datasets/aryashah2k/indian-medicinal-leaves-dataset)
-- Din arhiva descărcată, trebuie folosit doar folderul `medicinal plant dataset`, care conține imagini pentru 40 de specii de plante.
+- Database used: [Indian Medicinal Leaves Dataset (Kaggle)](https://www.kaggle.com/datasets/aryashah2k/indian-medicinal-leaves-dataset)
+- From the downloaded archive, only the `medicinal plant dataset` folder should be used, which contains images for 40 plant species.
 
-## Preprocesare și antrenare
+## Preprocessing and Training
 
-### 1. Preprocesare și augmentare
-Rulează, în ordine, următoarele scripturi:
+### 1. Preprocessing and Augmentation
+Run the following scripts in order:
 - `cnn pipeline.py`
 - `ml pipeline.py`
 - `augmentare.py`
 
-Acestea se ocupă de:
-- Preprocesarea imaginilor
-- Aplicarea augmentărilor (rotații, zgomot, etc.)
-- Salvarea datelor procesate pentru antrenare
+These handle:
+- Image preprocessing
+- Applying augmentations (rotations, noise, etc.)
+- Saving processed data for training
 
-### 2. Antrenarea modelelor
-Poți antrena oricare dintre următoarele modele disponibile:
+### 2. Model Training
+You can train any of the following available models:
 - `cnn1`
 - `cnn2`
 - `mobilenetv2`
 - `svm`
 - `rf` (Random Forest)
 
-Pentru aplicația mobilă, este necesar să antrenezi modelul `mobilenetv2`.
+For the mobile application, it is required to train the `mobilenetv2` model.
 
-## Integrarea în aplicația Android
+## Integration into the Android Application
 
-### 1. Conversia modelului
-După antrenarea modelului `mobilenetv2`, convertește-l în format TensorFlow Lite (`.tflite`).
+### 1. Model Conversion
+After training the `mobilenetv2` model, convert it to TensorFlow Lite format (`.tflite`).
 
-### 2. Salvarea modelului
-Mută fișierul `.tflite` în directorul `assets` al proiectului Android Studio sub numele: plant_model.tflite
+### 2. Saving the Model
+Move the `.tflite` file into the `assets` directory of the Android Studio project under the name: `plant_model.tflite`.
 
+### 3. Configuring Plant Data
+- In the `assets/plants` folder, there should be one image for each plant species.
+- Each image must be correctly linked in the `medicinal_plants.json` file (also located in `assets`), which contains details and links to images and information about the plants.
 
-### 3. Configurarea datelor despre plante
-- În folderul `assets/plants` trebuie să existe câte o imagine pentru fiecare specie de plantă.
-- Fiecare imagine trebuie legată corect în fișierul `medicinal_plants.json` (aflat tot în `assets`), care conține detalii și linkuri către imagini și informații despre plante.
+### 4. Android Version
+The project was developed and tested using **Android Meerkat**.
 
-### 4. Versiunea Android
-Proiectul a fost dezvoltat și testat folosind **Android Meerkat**.
+## Requirements
 
-## Cerințe
-
-Asigură-te că ai instalate următoarele:
+Make sure you have the following installed:
 - Python 3.8+
 - TensorFlow
 - scikit-learn
-- numpy, pandas, matplotlib 
-
-
-
+- numpy, pandas, matplotlib
